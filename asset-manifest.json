@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Travel-Website/static/css/main.bfa2da51.chunk.css",
+    "main.js": "/React-Travel-Website/static/js/main.3a0a6130.chunk.js",
+    "main.js.map": "/React-Travel-Website/static/js/main.3a0a6130.chunk.js.map",
+    "runtime-main.js": "/React-Travel-Website/static/js/runtime-main.5a1f7528.js",
+    "runtime-main.js.map": "/React-Travel-Website/static/js/runtime-main.5a1f7528.js.map",
+    "static/js/2.7150c6da.chunk.js": "/React-Travel-Website/static/js/2.7150c6da.chunk.js",
+    "static/js/2.7150c6da.chunk.js.map": "/React-Travel-Website/static/js/2.7150c6da.chunk.js.map",
+    "index.html": "/React-Travel-Website/index.html",
+    "precache-manifest.3cae11739240d99dfddaf36864ff50d5.js": "/React-Travel-Website/precache-manifest.3cae11739240d99dfddaf36864ff50d5.js",
+    "service-worker.js": "/React-Travel-Website/service-worker.js",
+    "static/css/main.bfa2da51.chunk.css.map": "/React-Travel-Website/static/css/main.bfa2da51.chunk.css.map",
+    "static/js/2.7150c6da.chunk.js.LICENSE.txt": "/React-Travel-Website/static/js/2.7150c6da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a1f7528.js",
+    "static/js/2.7150c6da.chunk.js",
+    "static/css/main.bfa2da51.chunk.css",
+    "static/js/main.3a0a6130.chunk.js"
+  ]
+}
